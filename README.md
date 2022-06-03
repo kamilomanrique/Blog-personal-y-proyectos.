@@ -1,2 +1,2 @@
 # Blog-personal.
-blog personal de Kamilo Manrique
+Blog personal de Kamilo Manrique
