@@ -1,2 +1,2 @@
-# Blog-personal-y-proyectos.
+# Blog-personal.
 blog personal de Kamilo Manrique
